@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9701A80D-75C2-4145-8EC7-9B53A112D136}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="6LABA_OOP/Program.cs">
+    <Files>
+      <File FileName="6LABA_OOP/Program.cs" Line="20" Column="10" />
+      <File FileName="6LABA_OOP/Flight.cs" />
+      <File FileName="6LABA_OOP/FlightStatus.cs" />
+      <File FileName="6LABA_OOP/FlightInformationSystem.cs" />
+      <File FileName="6LABA_OOP/TimeSpanConverter.cs" />
+      <File FileName="6LABA_OOP/GlobalUsing.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="6LABA_OOP" expanded="True">
+            <Node name="6LABA_OOP" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.6LABA__OOP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

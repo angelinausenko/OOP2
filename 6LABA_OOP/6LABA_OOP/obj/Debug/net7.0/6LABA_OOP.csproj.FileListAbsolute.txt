@@ -1,0 +1,15 @@
+/Users/angelina/GitHub/OOP2/6LABA_OOP/6LABA_OOP/bin/Debug/net7.0/6LABA_OOP
+/Users/angelina/GitHub/OOP2/6LABA_OOP/6LABA_OOP/bin/Debug/net7.0/6LABA_OOP.deps.json
+/Users/angelina/GitHub/OOP2/6LABA_OOP/6LABA_OOP/bin/Debug/net7.0/6LABA_OOP.runtimeconfig.json
+/Users/angelina/GitHub/OOP2/6LABA_OOP/6LABA_OOP/bin/Debug/net7.0/6LABA_OOP.dll
+/Users/angelina/GitHub/OOP2/6LABA_OOP/6LABA_OOP/bin/Debug/net7.0/6LABA_OOP.pdb
+/Users/angelina/GitHub/OOP2/6LABA_OOP/6LABA_OOP/obj/Debug/net7.0/6LABA_OOP.csproj.AssemblyReference.cache
+/Users/angelina/GitHub/OOP2/6LABA_OOP/6LABA_OOP/obj/Debug/net7.0/6LABA_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelina/GitHub/OOP2/6LABA_OOP/6LABA_OOP/obj/Debug/net7.0/6LABA_OOP.AssemblyInfoInputs.cache
+/Users/angelina/GitHub/OOP2/6LABA_OOP/6LABA_OOP/obj/Debug/net7.0/6LABA_OOP.AssemblyInfo.cs
+/Users/angelina/GitHub/OOP2/6LABA_OOP/6LABA_OOP/obj/Debug/net7.0/6LABA_OOP.csproj.CoreCompileInputs.cache
+/Users/angelina/GitHub/OOP2/6LABA_OOP/6LABA_OOP/obj/Debug/net7.0/6LABA_OOP.dll
+/Users/angelina/GitHub/OOP2/6LABA_OOP/6LABA_OOP/obj/Debug/net7.0/refint/6LABA_OOP.dll
+/Users/angelina/GitHub/OOP2/6LABA_OOP/6LABA_OOP/obj/Debug/net7.0/6LABA_OOP.pdb
+/Users/angelina/GitHub/OOP2/6LABA_OOP/6LABA_OOP/obj/Debug/net7.0/6LABA_OOP.genruntimeconfig.cache
+/Users/angelina/GitHub/OOP2/6LABA_OOP/6LABA_OOP/obj/Debug/net7.0/ref/6LABA_OOP.dll
