@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s0U9vgLaaiEhqu2BCU1QJNt9HKIjWRyEniema3TZDLJqjz2casiKpwCWrrnVX1FcQABbDIHIs+6G+l6nFyAYzQ==",
+  "success": true,
+  "projectFilePath": "/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/ConsoleAppRestaurantTableReservationManager.csproj",
+  "expectedPackageFiles": [
+    "/Users/angelina/.nuget/packages/nunit/4.0.1/nunit.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
