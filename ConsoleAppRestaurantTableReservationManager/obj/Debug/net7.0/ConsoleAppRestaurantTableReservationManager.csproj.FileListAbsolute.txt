@@ -1,0 +1,47 @@
+C:/Users/goodw/source/repos/v-ivanenko/ConsoleAppRestaurantTableReservationManager/bin/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.exe
+C:/Users/goodw/source/repos/v-ivanenko/ConsoleAppRestaurantTableReservationManager/bin/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.deps.json
+C:/Users/goodw/source/repos/v-ivanenko/ConsoleAppRestaurantTableReservationManager/bin/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.runtimeconfig.json
+C:/Users/goodw/source/repos/v-ivanenko/ConsoleAppRestaurantTableReservationManager/bin/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.dll
+C:/Users/goodw/source/repos/v-ivanenko/ConsoleAppRestaurantTableReservationManager/bin/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.pdb
+C:/Users/goodw/source/repos/v-ivanenko/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/goodw/source/repos/v-ivanenko/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.AssemblyInfoInputs.cache
+C:/Users/goodw/source/repos/v-ivanenko/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.AssemblyInfo.cs
+C:/Users/goodw/source/repos/v-ivanenko/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.csproj.CoreCompileInputs.cache
+C:/Users/goodw/source/repos/v-ivanenko/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.dll
+C:/Users/goodw/source/repos/v-ivanenko/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/refint/ConsoleAppRestaurantTableReservationManager.dll
+C:/Users/goodw/source/repos/v-ivanenko/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.pdb
+C:/Users/goodw/source/repos/v-ivanenko/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.genruntimeconfig.cache
+C:/Users/goodw/source/repos/v-ivanenko/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ref/ConsoleAppRestaurantTableReservationManager.dll
+/Users/sofiagunkalo/Desktop/Uni/2-й курс/ООП/ConsoleAppRestaurantTableReservationManager/bin/Debug/net7.0/ConsoleAppRestaurantTableReservationManager
+/Users/sofiagunkalo/Desktop/Uni/2-й курс/ООП/ConsoleAppRestaurantTableReservationManager/bin/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.deps.json
+/Users/sofiagunkalo/Desktop/Uni/2-й курс/ООП/ConsoleAppRestaurantTableReservationManager/bin/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.runtimeconfig.json
+/Users/sofiagunkalo/Desktop/Uni/2-й курс/ООП/ConsoleAppRestaurantTableReservationManager/bin/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.dll
+/Users/sofiagunkalo/Desktop/Uni/2-й курс/ООП/ConsoleAppRestaurantTableReservationManager/bin/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.pdb
+/Users/sofiagunkalo/Desktop/Uni/2-й курс/ООП/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.csproj.AssemblyReference.cache
+/Users/sofiagunkalo/Desktop/Uni/2-й курс/ООП/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofiagunkalo/Desktop/Uni/2-й курс/ООП/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.AssemblyInfoInputs.cache
+/Users/sofiagunkalo/Desktop/Uni/2-й курс/ООП/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.AssemblyInfo.cs
+/Users/sofiagunkalo/Desktop/Uni/2-й курс/ООП/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.csproj.CoreCompileInputs.cache
+/Users/sofiagunkalo/Desktop/Uni/2-й курс/ООП/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.dll
+/Users/sofiagunkalo/Desktop/Uni/2-й курс/ООП/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/refint/ConsoleAppRestaurantTableReservationManager.dll
+/Users/sofiagunkalo/Desktop/Uni/2-й курс/ООП/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.pdb
+/Users/sofiagunkalo/Desktop/Uni/2-й курс/ООП/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.genruntimeconfig.cache
+/Users/sofiagunkalo/Desktop/Uni/2-й курс/ООП/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ref/ConsoleAppRestaurantTableReservationManager.dll
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/bin/Debug/net7.0/ConsoleAppRestaurantTableReservationManager
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/bin/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.deps.json
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/bin/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.runtimeconfig.json
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/bin/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.dll
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/bin/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.pdb
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.csproj.AssemblyReference.cache
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.AssemblyInfoInputs.cache
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.AssemblyInfo.cs
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.csproj.CoreCompileInputs.cache
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.dll
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/refint/ConsoleAppRestaurantTableReservationManager.dll
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.pdb
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.genruntimeconfig.cache
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ref/ConsoleAppRestaurantTableReservationManager.dll
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/bin/Debug/net7.0/nunit.framework.dll
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/bin/Debug/net7.0/nunit.framework.legacy.dll
+/Users/angelina/Downloads/ConsoleAppRestaurantTableReservationManager/obj/Debug/net7.0/ConsoleAppRestaurantTableReservationManager.csproj.CopyComplete
